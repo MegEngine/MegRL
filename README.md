@@ -16,7 +16,7 @@ AutoROM --accept-license
 
 See requirement.txt for the full environment.
 
-##Training
+## Training
 
 You can run "python baserl/tools/train.py" to train a certain RL model on a given task, e.g.
 
