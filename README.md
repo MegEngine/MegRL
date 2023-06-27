@@ -40,7 +40,7 @@ You can modify baserl/configs/[tasktype]\_[algname]\_cfg.py to set the hyperpara
 
 ## Evaluation
 
-Similar to training, you can run "python baserl/tools/eval.py" to evaluated a trained RL model on a given task, e.g.
+Similar to training, you can run "python baserl/tools/eval.py" to evaluate a trained RL model on a given task, e.g.
 
 ```shell
 python baserl/tools/eval.py -task Atari/Pong -alg DQN -save the_name_of_log_directory --seed 1 --is_atari -load /path/to/the/model/checkpoint
