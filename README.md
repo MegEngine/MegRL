@@ -8,7 +8,7 @@ This is an implementation of 6 classic RL algorithms in MegEngine. The algorithm
 
 Before running the code, please install basecls[all], envpool, portalocker, h5py, numba, matplotlib, gymnasium[classic-control], gymnasium[atari], gymnasium[mujoco], AutoROM. And run:
 
-```
+```sh
 AutoROM --accept-license 
 ```
 
