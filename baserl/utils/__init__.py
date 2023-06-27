@@ -28,7 +28,6 @@ from .file_io import *
 from .logger_utils import setup_logger
 from .registry import Registry, all_register, registers
 
-from .megvii_internal import internal_setup  # isort:skip
 
 
 # additional utils
